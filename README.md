@@ -8,7 +8,7 @@ Projects Included
     Features: Add, View, Update, and Delete tasks.
     Concepts: Lists, Dictionaries, Functions, and CRUD operations.
 
- 3. Simple Calculator.
+ 2. Simple Calculator.
     A basic calculator for arithmetic operations.
     Location: simple-calculator/calculator.py
     Features: Addition, Subtraction, Multiplication, and Division.
@@ -20,12 +20,12 @@ Projects Included
     Features: Automatically detects the hour and displays an appropriate greeting.
     Concepts: Time module and Conditional statements.
 
- 5. KBC Quiz Game.
+ 4. KBC Quiz Game.
     A trivia game with multiple-choice questions and score tracking.
     Location: kbc-quiz-game/kbc_quiz.py
     Concepts: Loops, Iteration, and Logic building.
 
- 6. Secret Language.
+ 5. Secret Language.
     A project featuring message encoding and decoding functionality.
     Location: secret-language/secret_language.py
     Concepts: String manipulation and Functions.
@@ -43,5 +43,4 @@ Projects Included
   4.Maintain consistency on GitHub.
 
 -Technologies Used
-  Python 3.
-  Console or Terminal.
+  Python
